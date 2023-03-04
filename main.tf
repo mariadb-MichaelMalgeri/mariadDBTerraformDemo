@@ -2,7 +2,7 @@ terraform {
   required_providers {
     skysql = {
       source = "mariadb-corporation/skysql"
-      version ="0.2.0"
+      version ="1.0"
     }
   }
 }
